@@ -27,7 +27,7 @@
     "react-wrap-balancer": "^0.4.0",
     "sass": "^1.57.1",
     "superjson": "^1.12.2",
-    "swr": "^2.0.1",
+    "swr": "^2.1.1",
     "typescript": "4.9.4"
   },
   "devDependencies": {
